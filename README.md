@@ -13,7 +13,7 @@ It is based on [ ContaAzul API](https://developers.contaazul.com/).
 
 ### 1. Get the API-operations list
 
-![Operations](https://user-images.githubusercontent.com/3945941/230797375-979bea99-f21e-47d9-9bda-fadfd0f22e3f.png?raw=true "Operations")
+![Operations](https://user-images.githubusercontent.com/3945941/230801175-710c8190-39a4-4a2c-ba47-41a7f891e841.png?raw=true "Operations")
 
 ## 2. Understanding the API
 
