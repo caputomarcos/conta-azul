@@ -1,4 +1,4 @@
-# node-red-contrib-conta-azul
+# node-red-contrib-conta-azul-api
 
 ![Conta Azul](https://user-images.githubusercontent.com/3945941/230798312-7f8f69a1-859e-4ff1-a371-1073ec0d49eb.svg)
 
